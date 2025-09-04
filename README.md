@@ -18,7 +18,7 @@ Installation
 ------------
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ocr-camera-app.git
+   git clone https://github.com/procoder26/ocr-camera-app.git
    cd ocr-camera-app
 
 2. Install dependencies:
@@ -73,13 +73,13 @@ OCR results are stored in:
    ocr_regions/region_2.txt
    ...
 
-Each file is overwritten every cycle (no timestamps).
+Each file is overwritten every cycle.
 If you remove a region, extra files are deleted automatically.
 
 Troubleshooting
 ---------------
 - macOS camera access:
-  System Settings → Privacy & Security → Camera → allow Terminal (or iTerm2).
+  System Settings → Privacy & Security → Camera → allow Terminal (or whatever terminal your using).
 
 - Windows Tesseract path issue:
   If you see TesseractNotFoundError, add Tesseract to PATH:
