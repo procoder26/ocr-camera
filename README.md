@@ -7,6 +7,7 @@ This app lets you:
 - Save each region’s text into its own .txt file inside an ocr_regions/ folder.
 - Remove or re-draw regions anytime.
 - See live OCR results in a side panel.
+- See `working-in-obs.png` for more.
 
 Requirements
 ------------
@@ -57,6 +58,7 @@ If using a virtual environment, make sure it is activated first.
 You will be prompted for the camera index:
    Enter camera index (0=default):
    Use 0 for default, or 1/2/etc. for external or virtual cameras.
+   This is not based on the USB device, it is just the way the computer indexes the cameras.
 
 Controls
 --------
