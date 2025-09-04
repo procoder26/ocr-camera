@@ -1,5 +1,4 @@
-# ocr-camera
-Multi-Region OCR Camera App
+#Multi-Region OCR Camera App
 ===========================
 
 This app lets you:
