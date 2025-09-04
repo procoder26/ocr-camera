@@ -18,8 +18,8 @@ Installation
 ------------
 
 1. Clone the repository:
-   git clone https://github.com/procoder26/ocr-camera-app.git
-   cd ocr-camera-app
+   git clone https://github.com/procoder26/ocr-camera.git
+   cd ocr-camera
 
 2. Install dependencies:
 
