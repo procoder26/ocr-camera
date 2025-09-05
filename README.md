@@ -1,6 +1,8 @@
 Multi-Region OCR Camera App
 ===========================
 
+![Working in OBS] (working-in-obs.png)
+
 This app lets you:
 - Select up to 10 regions of the camera feed.
 - Perform live OCR (Optical Character Recognition) on each region every 0.5 seconds.
