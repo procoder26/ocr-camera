@@ -36,20 +36,20 @@ Windows:
 
 3. Python dependencies:
 
-## Option A (recommended, with virtual environment):
-   # macOS/Linux
+# Option A (recommended, with virtual environment):
+   ## macOS/Linux
    python3 -m venv venv
 
    source venv/bin/activate
 
-   # Windows
+   ## Windows
    python -m venv venv
    
    .\venv\Scripts\activate
 
    pip install opencv-python pytesseract numpy
 
-## Option B (global install):
+# Option B (global install):
    pip install opencv-python pytesseract numpy
 
 Running the App
