@@ -1,7 +1,7 @@
 Multi-Region OCR Camera App
 ===========================
 
-![Working in OBS] (working-in-obs.png)
+![Working in OBS](working-in-obs.png)
 
 This app lets you:
 - Select up to 10 regions of the camera feed.
